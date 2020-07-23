@@ -404,7 +404,7 @@
       "members": [
         {
           "type": "STRING",
-          "value": "default"
+          "value": "case"
         },
         {
           "type": "FIELD",

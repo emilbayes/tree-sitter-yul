@@ -551,6 +551,10 @@
     "named": false
   },
   {
+    "type": "case",
+    "named": false
+  },
+  {
     "type": "code",
     "named": false
   },

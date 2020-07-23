@@ -81,7 +81,7 @@ module.exports = grammar({
         $.default
       ))
     ),
-    case: $ => seq('default', field('value', $.literal), $.block),
+    case: $ => seq('case', field('value', $.literal), $.block),
     default: $ => seq('default', $.block),
     forLoop: $ => seq('for', $.block, $.expression, $.block, $.block),
     breakContinue: $ => choice('break', 'continue'),
