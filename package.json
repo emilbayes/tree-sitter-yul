@@ -1,0 +1,15 @@
+{
+  "name": "tree-sitter-yul",
+  "version": "1.0.0",
+  "description": "Tree Sitter parser for Ethereum YUL",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nan": "^2.14.1"
+  },
+  "devDependencies": {
+    "tree-sitter-cli": "^0.16.9"
+  }
+}
